@@ -1,0 +1,14 @@
+.\yerrvsval.o: Yerrvsval.c
+.\yerrvsval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\yerrvsval.o: ../inc/tm4c123gh6pm.h
+.\yerrvsval.o: ST7735.h
+.\yerrvsval.o: Print.h
+.\yerrvsval.o: Random.h
+.\yerrvsval.o: TExaS.h
+.\yerrvsval.o: ADC.h
+.\yerrvsval.o: Images.h
+.\yerrvsval.o: Sound.h
+.\yerrvsval.o: Timer1.h
+.\yerrvsval.o: Buttons.h
+.\yerrvsval.o: Dac.h
+.\yerrvsval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
